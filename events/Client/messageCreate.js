@@ -35,7 +35,7 @@ module.exports = {
     .setDescription(`A Very Good Moderation With Cool Features`)
     .addFields([
             { name: '**__Thanks For Pinging__**', value: `<a:x_dot:1247589958600888332> Browse my commands by using \`${prefix}help\`
-<a:x_dot:1247589958600888332> Join [Community](https://discord.gg/teamkronix) to get updates related to CodeX.`, inline: true },
+<a:x_dot:1247589958600888332> Join [Community](https://discord.gg/teamkronix) to get updates related to Bot`, inline: true },
           
       ]);
       
