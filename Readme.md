@@ -18,7 +18,7 @@
 
 3. Start the bot:
    ```bash
-   node src/index.js
+   node index.js
    ```
 
 ## 🤖 Need Help?
